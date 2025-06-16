@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://goodboychan.github.io/sitemap.xml
+Sitemap: https://HuiZhang95.github.io
